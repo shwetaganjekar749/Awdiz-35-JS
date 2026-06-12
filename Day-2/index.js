@@ -10,8 +10,8 @@
 // 1.String //
 
 let name = "Patel Vipal";
-let email = "vipal@gmial.com";
-let password = "pass@1110";
+let email = "shweta@gmial.com";
+let password = "pass@6745";
 
 console.log(name, "name");
 console.log(email, "email");
