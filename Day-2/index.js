@@ -9,7 +9,7 @@
 
 // 1.String //
 
-let name = "Patel Vipal";
+let name = "Shweta Ganjekar";
 let email = "shweta@gmial.com";
 let password = "pass@6745";
 
@@ -27,7 +27,7 @@ let age = 26;
 console.log(age, "age");
 console.log(typeof age);
 
-const phone_Number = "1234567890";
+const phone_Number = "6754367890";
 console.log(phone_Number, "phone_Number");
 console.log(typeof phone_Number);
 
